@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kiyomi!
+- 👀 I’m interested in computer programming, frontend development, backend development, and etc
+- 💞️ I’m curently working on FiveAC [FiveM Private Anticheat]
+- 📫 How to reach me [Discord: Kiyomi#9081]
