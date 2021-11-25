@@ -1,7 +1,6 @@
 # Kiyomi Fujisaki
 Discord: Kiyomi#9081\
 ![N](https://cdn.discordapp.com/attachments/796230402540306443/911687911613808670/image03.gif)
-❌✅ 
 |Projects |Description |Public |Software| 
 | ------ | ------ | ------ | ------ | 
 | **FiveAC** | *Private FiveM Anticheat* | ❌ | FiveM
