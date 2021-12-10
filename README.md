@@ -1,6 +1,12 @@
-# Kiyomi Fujisaki
-Discord: Kiyomi#9081\
+# Kiyomi Fujisaki [K3YOMI]
+## Contact Information
+Discord Account: Kiyomi#9081\
+Yotuube: PartyOnTuesdays\
+Github: https://github.com/K3YOMI\
+##
 ![N](https://cdn.discordapp.com/attachments/796230402540306443/911687911613808670/image03.gif)
+##
+## Current Github Repositories
 |Projects |Description |Public |Software| 
 | ------ | ------ | ------ | ------ | 
 | **FiveAC** | *Private FiveM Anticheat* | ❌ | FiveM
@@ -18,8 +24,8 @@ Discord: Kiyomi#9081\
 | **Ra66it** | *Linux-Based Console for pen-testing* | ❌ | Linux Tools
 | **DiscordConsole** | *Discord RPC Manager* | ❌ | DISCORD
 | **WikiHow-API** | *Generates a random wiki-how webpage and prints contents to console* | ✅ | Linux/Win/Mac
-
-#### Current Programming Languages I know/use everyday
+##
+## Known Programming Languages I use everyday
 ``````
 - Lua 5.2-5.6
 - CFX.Lua
