@@ -3,8 +3,6 @@
 Discord Account: Kiyomi#9081\
 Yotuube: PartyOnTuesdays\
 Github: https://github.com/K3YOMI
-
-Github: : shorturl.at/inAJW
 ##
 ![N](https://cdn.discordapp.com/attachments/796230402540306443/911687911613808670/image03.gif)
 ##
