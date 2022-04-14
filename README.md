@@ -25,14 +25,14 @@ Github: https://github.com/K3YOMI
 | **DiscordConsole** | *Discord RPC Manager* | ❌ | DISCORD
 | **WikiHow-API** | *Generates a random wiki-how webpage and prints contents to console* | ✅ | Linux/Win/Mac
 ##
-## Known Programming Languages I use everyday
+## Programming Languages I use everyday
 ``````
 - Lua 5.2-5.6
 - CFX.Lua
 - TypeScript
 - C#
 - JavaScript
-- FiveAC [Based off of C#]
+- FiveAC [Based off of C#] (Stopped Working On)
 - C++
 - C
 - Swift
