@@ -9,18 +9,10 @@ Github: https://github.com/K3YOMI
 ## Current Github Repositories
 |Projects |Description |Public |Software| 
 | ------ | ------ | ------ | ------ | 
-| **FiveAC** | *Private FiveM Anticheat* | ❌ | FiveM
-| **FiveM-Event-Protection** | *"Spoofs" TriggerServerEvents by using other networking tatics* | ❌ | FiveM
-| **Femboy Entity Menu** | *FiveM Entity Menu* | ❌ | FiveM
-| **FiveM Modder Dumper** | *Dumps mod menus from the modders [Loaded in the server]* | ❌ | FiveM
-| **FiveAC Moderation Menu** | *FiveM Moderation Menu* | ❌ | FiveM
+| **FiveAC** | *Private FiveM Anticheat Project for Showcasing* | ❌ | FiveM
+| **FiveM Entity Menu** | *FiveM Entity Menu* | ❌ | FiveM
 | **FiveM LOD Reload** | *A command that reloads the LOD draw distance on the client* | ✅  | FiveM
-| **FiveM AI Animal Disable** | *Disables all Animal AI spawning* | ✅  | FiveM
-| **FiveM AI Police Disable** | *Disables all Police AI spawning* | ✅  | FiveM
 | **FiveM Bait Anticheats** | *Well known FiveM Resources to bait modders* | ✅  | FiveM
-| **Vertex Roleplay** | *Vertex Roleplay Framework* | ❌ | FiveM Server
-| **Zodiac Roleplay** | *Zodiac Roleplay Framework* | ❌ | FiveM Server
-| **FiveM-Web-Console** | *FiveAC Cloud Panel* | ❌ | WEB
 | **Ra66it** | *Linux-Based Console for pen-testing* | ❌ | Linux Tools
 | **DiscordConsole** | *Discord RPC Manager* | ❌ | DISCORD
 | **WikiHow-API** | *Generates a random wiki-how webpage and prints contents to console* | ✅ | Linux/Win/Mac
@@ -31,11 +23,9 @@ Github: https://github.com/K3YOMI
 - CFX.Lua
 - TypeScript
 - C#
-- JavaScript
-- FiveAC [Based off of C#] (Stopped Working On)
 - C++
 - C
-- Swift
+- JavaScript
 - Perl
 - PHP
 - HTML
