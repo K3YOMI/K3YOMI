@@ -32,4 +32,4 @@ Github: https://github.com/K3YOMI
 - RUBY
 - Java
 ``````
-
+Bonjour Cipher, je sais que vous lisez ceci :)
