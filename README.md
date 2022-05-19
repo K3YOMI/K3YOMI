@@ -1,4 +1,12 @@
 # Hello, I'm Kiyomi 👋
+# About me 
+Greetings, I am kiyomi and honestly there is nothing much to say about me. Alright, have fun looking my releases.
+- Plant Lover 🌱
+- Programming Nerd 🤓
+- Loving Human ❤️
+- Transfeminine 🏳️‍⚧️
+- Github CoPilot Tester 🧑‍✈️
+
 
 
 
