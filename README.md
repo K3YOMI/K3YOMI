@@ -27,9 +27,14 @@ Greetings, I am kiyomi and honestly there is nothing much to say about me. Alrig
 - **Bash Shell** [ I'm a bash master mostly because I use it for my linux server ]
 - **Swift** [ I dont like mobile apps but I'm learning it ]
 
+## Currently working on
+| Current Projects                   | Open Sourced | Public | Language         | Application         | Development Active | Time Updated |
+|------------------------------------|--------------|--------|------------------|---------------------|--------------------|--------------|
+| [REDACTED]                         | Yes          | No     | C# / NodeJS      | Offsite Exploiting  | Yes                | 5/17/22      |
+| CallMeRabbit                       | Yes          | No     | Python / NodeJS  | Google Gmail        | Yes                | 5/19/22      |
 
 ## Projects I've worked on :D
-| Recent Projects                    | Open Sourced | Public | Language         | Application         | Development Active | Time Updated |
+| Projects                           | Open Sourced | Public | Language         | Application         | Development Active | Time Updated |
 |------------------------------------|--------------|--------|------------------|---------------------|--------------------|--------------|
 | DiscordRPC                         | Yes          | No     | C# / NodeJS      | Discord             | Yes                | 5/02/22      |
 | FiveAC Anticheat                   | Yes          | No     | Lua / JSON       | FiveM/CFX.re        | Yes                | 5/15/22      |
