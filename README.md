@@ -5,7 +5,7 @@ Greetings, I am kiyomi and honestly there is nothing much to say about me. Alrig
 - Programming Nerd 🤓
 - Loving Human ❤️
 - Transfeminine 🏳️‍⚧️
-- Github CoPilot Tester 🧑‍✈️
+- (WAS) Github Copilot Technical Previewer 🧑‍✈️
 
 
 
