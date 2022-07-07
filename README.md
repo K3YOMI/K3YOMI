@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&duration=3000&vCenter=true&height=25&color=C21FF7&lines=%F0%9F%92%BB+Network+Security+Enthusiast+%F0%9F%92%BB;%F0%9F%8C%B1+Plant+Enthusiast+%F0%9F%8C%B1;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%E2%9D%A4%EF%B8%8F+Transfeminine+%E2%9D%A4%EF%B8%8F;%E2%9C%88%EF%B8%8F+Copilot+Technical+Previewer+%E2%9C%88%EF%B8%8F)](https://git.io/typing-svg)
 
-## About Me...
-
-- TO DO
 
 ## Contact Information 
 <a href="mailto:chevybot123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -53,20 +50,53 @@
 </details>
 
 
-## 🎵 My Music Playlist
+### Recent Followers
+
+<details>
+<summary>Show</summary>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cyphgithub">
+        <img src="https://avatars.githubusercontent.com/u/89238641?s=80&v=4" width="100px;" alt="Ciph"/>
+      </a>
+      <br/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FANOC123">
+        <img src="https://avatars.githubusercontent.com/u/83241142?s=80&v=4" width="100px;" alt="FANOC123"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yxupy">
+        <img src="https://avatars.githubusercontent.com/u/95063929?s=80&v=4" width="100px;" alt="yxupy"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+</details>
+
+## 🎵 Music Playlist
 <details> <summary>Show</summary>
 <p align="center">
-<a href="https://soundcloud.com/ytcracker/ytcracker-doomsday"><img src="https://i1.sndcdn.com/artworks-000216317281-9790xm-t500x500.jpg" height="100px" title="YTCracker - Doomsday"></a>
-<a href="https://soundcloud.com/ytcracker/ytcracker-paint"><img src="https://i1.sndcdn.com/artworks-000189822789-kw9py6-t500x500.jpg" height="101px" title="YTCracker - Paint"></a>  
-<a href="https://soundcloud.com/ytcracker/ytcracker-hacker-music"><img src="https://i1.sndcdn.com/artworks-000174442838-ogo7no-t200x200.jpg" height="101px" title="YTCracker - Hacker Music"><a>
-<a href="https://soundcloud.com/ytcracker/ytcracker-packets"><img src="https://i1.sndcdn.com/artworks-000174519030-nx4gu7-t200x200.jpg" height="101px" title="YTCracker - Packets"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-bitness"><img src="https://i1.sndcdn.com/artworks-000220685302-t0p0o0-t200x200.jpg" height="101px" title="YTCracker - Bitness"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-just-cruising"><img src="https://i1.sndcdn.com/artworks-000116610612-cuqjp7-t200x200.jpg" height="101px" title="YTCracker - Just Cruising"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-bitcoin-baron-v1-ssl"><img src="https://i1.sndcdn.com/artworks-000050725433-egoe1g-t200x200.jpg" height="101px" title="YTCracker - Bitcoin Baron"><a> 
-<a href="https://www.youtube.com/watch?v=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-a7S1mqufwhs8-0-t200x200.jpg" height="101px" title="Eninem - Venom"><a> 
-<a href="https://www.youtube.com/watch?v=caeA9P8jF5s&list=RDMM&start_radio=1&rv=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-npmJm3NxISGY-0-t500x500.jpg" height="101px" title="Royal Republic - When i see you dance with another"><a> 
-<a href="https://www.youtube.com/watch?v=dhqH4QpSgBI&list=RDMM&index=6"><img src="https://i1.sndcdn.com/artworks-Azqc1SRgMSdZ-0-t200x200.jpg" height="101px" title="Billy Joel - We Didn't Start the Fire"><a> 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<a href="https://soundcloud.com/ytcracker/ytcracker-doomsday"><img src="https://i1.sndcdn.com/artworks-000216317281-9790xm-t500x500.jpg" height="75px" title="YTCracker - Doomsday"></a>
+<a href="https://soundcloud.com/ytcracker/ytcracker-paint"><img src="https://i1.sndcdn.com/artworks-000189822789-kw9py6-t500x500.jpg" height="75px" title="YTCracker - Paint"></a>  
+<a href="https://soundcloud.com/ytcracker/ytcracker-hacker-music"><img src="https://i1.sndcdn.com/artworks-000174442838-ogo7no-t200x200.jpg" height="75px" title="YTCracker - Hacker Music"><a>
+<a href="https://www.youtube.com/watch?v=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000008613366-9m7umu-t500x500.jpg" height="75px" title="YTCracker - #AntiSec"><a>
+<a href="https://soundcloud.com/ytcracker/ytcracker-packets"><img src="https://i1.sndcdn.com/artworks-000174519030-nx4gu7-t200x200.jpg" height="75px" title="YTCracker - Packets"><a> 
+<a href="https://soundcloud.com/ytcracker/ytcracker-bitness"><img src="https://i1.sndcdn.com/artworks-000220685302-t0p0o0-t200x200.jpg" height="75px" title="YTCracker - Bitness"><a> 
+<a href="https://soundcloud.com/ytcracker/ytcracker-just-cruising"><img src="https://i1.sndcdn.com/artworks-000116610612-cuqjp7-t200x200.jpg" height="75px" title="YTCracker - Just Cruising"><a> 
+<a href="https://soundcloud.com/ytcracker/ytcracker-bitcoin-baron-v1-ssl"><img src="https://i1.sndcdn.com/artworks-000050725433-egoe1g-t200x200.jpg" height="75px" title="YTCracker - Bitcoin Baron"><a> 
+<a href="https://www.youtube.com/watch?v=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-a7S1mqufwhs8-0-t200x200.jpg" height="75px" title="Eninem - Venom"><a> 
+<a href="https://www.youtube.com/watch?v=FDNiE5CKuSw"><img src="https://i1.sndcdn.com/artworks-ib8IVsFGBGgN-0-t200x200.jpg" height="75px" title="Avenged Sevenfold - Shepherd of Fire"><a> 
+<a href="https://www.youtube.com/watch?v=caeA9P8jF5s&list=RDMM&start_radio=1&rv=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-npmJm3NxISGY-0-t500x500.jpg" height="75px" title="Royal Republic - When i see you dance with another"><a> 
+<a href="https://www.youtube.com/watch?v=dhqH4QpSgBI&list=RDMM&index=6"><img src="https://i1.sndcdn.com/artworks-Azqc1SRgMSdZ-0-t200x200.jpg" height="75px" title="Billy Joel - We Didn't Start the Fire"><a> 
+<a href="https://www.youtube.com/watch?v=0NlGcFj0NZU&list=RDMM&start_radio=1&rv=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000572872658-9yqro0-t500x500.jpg" height="75px" title="Negative XP - Scott Pilgrim vs. the World Ruined a Whole Generation of Women"><a> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 </p>
 </details>
   
