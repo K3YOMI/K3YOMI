@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/GoLang-black?style=flat-square&logo=go"/>
 <img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=swift"/>
+<img src="https://img.shields.io/badge/VBS_Script-black?style=flat-square&logo=vbs"/>
+<img src="https://img.shields.io/badge/Batch_Script-black?style=flat-square&logo=batch"/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3"/>
