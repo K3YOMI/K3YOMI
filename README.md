@@ -10,7 +10,7 @@
 <a href="https://discordapp.com/users/359794704847601674"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kiyomi#9081" ></a>
 
 
-## 🔨 Languages / Frameworks / Tools / Operating Systems
+## 🔨 Most Used Languages / Frameworks / Tools / Operating Systems
 <details> <summary>Show</summary>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=blue"/>
