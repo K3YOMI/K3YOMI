@@ -12,7 +12,7 @@
 
 ## 🔨 Most Used Languages / Frameworks / Tools / Operating Systems
 <details> <summary>Show</summary>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=blue"/>
 <img src="https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript"/>
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Windows_10-black?style=flat-square&logo=windows"/>
 <img src="https://img.shields.io/badge/Windows_8-black?style=flat-square&logo=windows"/>
 <img src="https://img.shields.io/badge/Windows_7-black?style=flat-square&logo=windows"/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 </details>
 
 
@@ -57,7 +57,7 @@
 <details>
 <summary>Show</summary>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 <table>
   <tr>
     <td align="center">
@@ -88,13 +88,13 @@
     </td>
   </tr>
 </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 </details>
 
 ## 🎵 Music Playlist
 <details> <summary>Show</summary>
 <p align="center">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 <a href="https://soundcloud.com/ytcracker/ytcracker-doomsday"><img src="https://i1.sndcdn.com/artworks-000216317281-9790xm-t500x500.jpg" height="75px" title="YTCracker - Doomsday"></a>
 <a href="https://soundcloud.com/ytcracker/ytcracker-paint"><img src="https://i1.sndcdn.com/artworks-000189822789-kw9py6-t500x500.jpg" height="75px" title="YTCracker - Paint"></a>  
 <a href="https://soundcloud.com/ytcracker/ytcracker-hacker-music"><img src="https://i1.sndcdn.com/artworks-000174442838-ogo7no-t200x200.jpg" height="75px" title="YTCracker - Hacker Music"><a>
@@ -108,7 +108,6 @@
 <a href="https://www.youtube.com/watch?v=caeA9P8jF5s&list=RDMM&start_radio=1&rv=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-npmJm3NxISGY-0-t500x500.jpg" height="75px" title="Royal Republic - When i see you dance with another"><a> 
 <a href="https://www.youtube.com/watch?v=dhqH4QpSgBI&list=RDMM&index=6"><img src="https://i1.sndcdn.com/artworks-Azqc1SRgMSdZ-0-t200x200.jpg" height="75px" title="Billy Joel - We Didn't Start the Fire"><a> 
 <a href="https://www.youtube.com/watch?v=0NlGcFj0NZU&list=RDMM&start_radio=1&rv=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000572872658-9yqro0-t500x500.jpg" height="75px" title="Negative XP - Scott Pilgrim vs. the World Ruined a Whole Generation of Women"><a> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 </p>
 </details>
-  
