@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3"/>
 <img src="https://img.shields.io/badge/DiscordJS-black?style=flat-square&logo=discord"/>
 <img src="https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron"/>
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/Atom-black?style=flat-square&logo=atom"/>
