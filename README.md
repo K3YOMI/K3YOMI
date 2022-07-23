@@ -12,7 +12,7 @@
 
 ## 🔨 Most Used Languages / Frameworks / Tools / Operating Systems
 <details> <summary>Show</summary>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
+
 <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=blue"/>
 <img src="https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript"/>
@@ -47,14 +47,52 @@
 <img src="https://img.shields.io/badge/Windows_10-black?style=flat-square&logo=windows"/>
 <img src="https://img.shields.io/badge/Windows_8-black?style=flat-square&logo=windows"/>
 <img src="https://img.shields.io/badge/Windows_7-black?style=flat-square&logo=windows"/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
+
 </details>
 
+
+### Recent Followers
+
+<details>
+<summary>Show</summary>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cyphgithub">
+        <img src="https://avatars.githubusercontent.com/u/89238641?s=80&v=4" width="75px;" alt="Ciph"/>
+      </a>
+      <br/>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ForceScripts">
+        <img src="https://avatars.githubusercontent.com/u/71199348?s=100&v=4" width="75px;" alt="ForceScripts"/>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Yassine Ben daoud">
+        <img src="https://avatars.githubusercontent.com/u/73676329?s=100&v=4" width="75px;" alt="Yassine Ben daoud"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FANOC123">
+        <img src="https://avatars.githubusercontent.com/u/83241142?s=80&v=4" width="75px;" alt="FANOC123"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yxupy">
+        <img src="https://avatars.githubusercontent.com/u/95063929?s=80&v=4" width="75px;" alt="yxupy"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ## 🎵 Music Playlist
 <details> <summary>Show</summary>
 <p align="center">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 <a href="https://soundcloud.com/ytcracker/ytcracker-doomsday"><img src="https://i1.sndcdn.com/artworks-000216317281-9790xm-t500x500.jpg" height="75px" title="YTCracker - Doomsday"></a>
 <a href="https://soundcloud.com/ytcracker/ytcracker-paint"><img src="https://i1.sndcdn.com/artworks-000189822789-kw9py6-t500x500.jpg" height="75px" title="YTCracker - Paint"></a>  
 <a href="https://soundcloud.com/ytcracker/ytcracker-hacker-music"><img src="https://i1.sndcdn.com/artworks-000174442838-ogo7no-t200x200.jpg" height="75px" title="YTCracker - Hacker Music"><a>
@@ -70,6 +108,5 @@
 <a href="https://www.youtube.com/watch?v=0NlGcFj0NZU&list=RDMM&start_radio=1&rv=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000572872658-9yqro0-t500x500.jpg" height="75px" title="Negative XP - Scott Pilgrim vs. the World Ruined a Whole Generation of Women"><a> 
 <a href="https://soundcloud.com/lmfao-official/sorry-for-party-rocking-3"><img src="https://i1.sndcdn.com/artworks-dADU9QjWh8ET-0-t500x500.jpg" height="75px" title="LMFAO - Sorry for Party Rocking"><a> 
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOmfCfnI75AhXRpIkEHSN8DKsQyCl6BAgaEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKQ6zr6kCPj8&usg=AOvVaw1cgo10fVvKPtE4iw6pSAAj"><img src="https://i1.sndcdn.com/artworks-dADU9QjWh8ET-0-t500x500.jpg" height="75px" title="LMFAO - Party Rock Anthem"><a> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 </p>
 </details>
