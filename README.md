@@ -107,6 +107,8 @@
 <a href="https://www.youtube.com/watch?v=caeA9P8jF5s&list=RDMM&start_radio=1&rv=8CdcCD5V-d8"><img src="https://i1.sndcdn.com/artworks-npmJm3NxISGY-0-t500x500.jpg" height="75px" title="Royal Republic - When i see you dance with another"><a> 
 <a href="https://www.youtube.com/watch?v=dhqH4QpSgBI&list=RDMM&index=6"><img src="https://i1.sndcdn.com/artworks-Azqc1SRgMSdZ-0-t200x200.jpg" height="75px" title="Billy Joel - We Didn't Start the Fire"><a> 
 <a href="https://www.youtube.com/watch?v=0NlGcFj0NZU&list=RDMM&start_radio=1&rv=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000572872658-9yqro0-t500x500.jpg" height="75px" title="Negative XP - Scott Pilgrim vs. the World Ruined a Whole Generation of Women"><a> 
+<a href="https://soundcloud.com/lmfao-official/sorry-for-party-rocking-3"><img src="https://i1.sndcdn.com/artworks-dADU9QjWh8ET-0-t500x500.jpg" height="75px" title="LMFAO - Sorry for Party Rocking"><a> 
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOmfCfnI75AhXRpIkEHSN8DKsQyCl6BAgaEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKQ6zr6kCPj8&usg=AOvVaw1cgo10fVvKPtE4iw6pSAAj"><img src="https://i1.sndcdn.com/artworks-dADU9QjWh8ET-0-t500x500.jpg" height="75px" title="LMFAO - Party Rock Anthem"><a> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1020" height=""></img>
 </p>
 </details>
