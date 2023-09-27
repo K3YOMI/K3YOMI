@@ -129,6 +129,46 @@ Drives..............:
 
 <br/>  
 
+## 👨‍💻 Github Stats  
+
+<div>
+<img align="left" height="228vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<img align="left" height="200vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+</div>
+
+```
+[ Experience in languages ]
+JavaScript......: 5 Years
+Python..........: 6 years
+LUA.............: 8 years
+C#..............: 3 years
+TypeScript......: 4 years
+C++.............: 4 years
+GoLang..........: 2 years
+PHP.............: 1 year
+Java............: 1 year
+```
+
+
+<div>
+<img align="left" height="228vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
+<img align="left" height="200vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+  
+</div>
+
+```
+[ Current Projects ]
+- AtmosphericX
+- Wall of Flippers (WoF)
+- CalRP
+- Citizen.cl
+- FiveAC Anticheat
+
+
+
+
+```
+
 
 
 ## 💀 DEF CON Playlist
