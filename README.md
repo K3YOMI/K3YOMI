@@ -6,7 +6,7 @@
 
 
 <div align='center'>
-<img align="right" height="323vh" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif">
+<img align="right" style="height: 20vh; width: 25vh" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif">
 <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
