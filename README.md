@@ -37,14 +37,16 @@ Meteorology, the study of weather and atmospheric phenomena, has also captured m
 
 On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for Cyber Security, Programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing Cyber Security, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
-## 🖥️ My Workstation
-<div>
-    <img align="right" height="200vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
-    <img align="right" height="200vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-</div>
 
-```
-- CPU: AMD Ryzen 7 5800X 8-Core Processor 
+## 🖥️ My Workstation
+<div style="padding: 502px">
+  <div>
+    <img align="right" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
+    <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+  </div>
+  <summary>Main Computer Specifications</summary>
+
+  - CPU: AMD Ryzen 7 5800X 8-Core Processor 
   - GPU: Nvidia RTX 3060 12GB
   - RAM: 32.0 GB (4x8GB) Corsair Vengeance
   - Motherboard: MSI B450 Gaming Plus
@@ -54,9 +56,11 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
     - Projects: 1TB SSD
     - Virtual Machines: 512GB SSD
     - CitizenFX DB: 2TB NVMe
-```
-
-
+<br>
+ <div>
+    <img align="center" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/9401b188-62e7-429c-9fd2-0a78cd30631e">
+</div>
+</div>
 
 
 
