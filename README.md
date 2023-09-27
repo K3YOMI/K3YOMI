@@ -5,11 +5,14 @@
 # ❤︎ About Me
 
 
-<div>
-<img align="right" style="height: 20vh; width: 25vh" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif">
-<img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-</div>
 
+
+## ❤︎ About Me
+  <div>
+    <img align="left" style="height: 28vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
+    <img align="left" height="200vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+  </div>
+</div>
 
 ```
 Name...................:  Kiyomi (k3yomi / Dark Triad / Ra66it)
@@ -28,6 +31,7 @@ Socials................:
     GitHub.............: @k3yomi
     Reddit.............: @Kiyomi Fujisaki
 ```
+
 ## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
 
