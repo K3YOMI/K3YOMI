@@ -21,6 +21,7 @@
 - GitHub: `@k3yomi`
 - Reddit: `@Kiyomi Fujisaki`
 
+<br>
 
 ## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
