@@ -21,11 +21,11 @@ Intetests..............:  Cybersecurity, Infosecutity,
                           Pentesting, Meteorology, Statistics,
                           Data Mining
 Socials................:
-    Discord............: @kiyomi (359794704847601674)
-    Youtube............: @PartyOnTuesdays
-    RBLX...............: @PartyOnTuesdays
-    GitHub.............: @k3yomi
-    Reddit.............: @Kiyomi Fujisaki
+  Discord..............: @kiyomi (359794704847601674)
+  Youtube..............: @PartyOnTuesdays
+  RBLX.................: @PartyOnTuesdays
+  GitHub...............: @k3yomi
+  Reddit...............: @Kiyomi Fujisaki
 ```
 
 ## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -49,16 +49,16 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 </div>
 
 ```
-CPU...................: AMD Ryzen 7 5800X 8-Core Processor
-GPU...................: Nvidia RTX 3060 12GB
-RAM...................: 32.0 GB (4x8GB) Corsair Vengeance
-Motherboard...........: MSI B450 Gaming Plus
-Drives................:
-    Boot...............: 1TB NVMe
-    The Cave..........: 2TB HHD
-    Projects..........: 1 TB SSD
-    Virtual Machines..: 512GB SSD
-    CitizenFX DB......: 2TB NVMe
+CPU.................: AMD Ryzen 7 5800X 8-Core Processor
+GPU.................: Nvidia RTX 3060 12GB
+RAM.................: 32.0 GB (4x8GB) Corsair Vengeance
+Motherboard.........: MSI B450 Gaming Plus
+Drives..............:
+  Boot..............: 1TB NVMe
+  The Cave..........: 2TB HHD
+  Projects..........: 1 TB SSD
+  Virtual Machines..: 512GB SSD
+  CitizenFX DB......: 2TB NVMe
 ```
 
 
