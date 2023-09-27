@@ -40,6 +40,10 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 
 ## 🖥️ My Workstation
 <div style="padding: 502px">
+   <div>
+    <img align="center" style="width: 1500px; height: 450px"  src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
+</div>
+  <hr>
   <div>
     <img align="right" height="340vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/389681be-a646-4ce6-8238-5f9482e3d98d)">
     <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
@@ -57,9 +61,6 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
     - Virtual Machines: 512GB SSD
     - CitizenFX DB: 2TB NVMe
 <br>
- <div>
-    <img align="center" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
-</div>
 </div>
 
 
