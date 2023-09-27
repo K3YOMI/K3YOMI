@@ -42,8 +42,8 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 
   <hr>
   <div>
-    <img align="left" height="326vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
-    <img align="left" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="right" height="326vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
+    <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
   <h2><b>Main Workstation Specifications</b></h2>
 </div>
