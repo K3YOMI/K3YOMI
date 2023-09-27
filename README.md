@@ -54,7 +54,6 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
     - Projects: 1TB SSD
     - Virtual Machines: 512GB SSD
     - CitizenFX DB: 2TB NVMe
-
 ```
 
 
