@@ -28,7 +28,7 @@ Socials................:
   Reddit...............: @Kiyomi Fujisaki
 ```
 
-## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+## 📙 More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
 
 In the field of Cyber Security, I am captivated by the ever-evolving landscape of threats and the critical role that security plays in safeguarding individuals and organizations. I am committed to understanding and mitigating these risks through continuous learning and staying updated with the latest trends and techniques. From network security to application security, cryptography to ethical hacking, I immerse myself in various aspects of the field.
