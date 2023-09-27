@@ -1,6 +1,6 @@
 ![BackgroundBaseGithub](https://github.com/K3YOMI/K3YOMI/assets/54733885/9bad09b6-8086-4f49-aaa2-5a1f8907d2b5)
 
-<h3 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=3000&color=F70000&center=true&width=900&lines=Greetings%2C+I'm+Kiyomi+(k3yomi);Have+Questions%3F;Feel+free+to+contact+me!;Discord%3A+kiyomi+(Previously+Kiyomi%230001+%2F+%239081)" alt="Typing SVG" /></a></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=3000&color=F70000&center=true&width=900&lines=Greetings%2C+I'm+Kiyomi+(k3yomi);Have+Questions%3F;Feel+free+to+contact+me!;Discord%3A+kiyomi+(Previously+Kiyomi%230001+%2F+%239081)" alt="Typing SVG" /></a>
   
 # ❤︎ About Me
 
