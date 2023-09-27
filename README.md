@@ -42,10 +42,9 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 ## 🖥️ My Workstation
 <div>
   <div>
-    <img align="right" style="height: 30vh; width: 35vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
-    <img align="right" style="height: 30vh; width: 9vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="left" style="height: 20vh; width: 27vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
+    <img align="right" style="height: 20vh; width: 9vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
-<br>
 </div>
 
 ```
