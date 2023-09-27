@@ -4,14 +4,9 @@
   
 # ❤︎ About Me
 
-
-
-
-## ❤︎ About Me
   <div>
     <img align="left" style="height: 28vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
     <img align="left" height="200vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-  </div>
 </div>
 
 ```
@@ -43,11 +38,9 @@ Meteorology, the study of weather and atmospheric phenomena, has also captured m
 On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for Cyber Security, Programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing Cyber Security, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
 ## 🖥️ My Workstation
-  <div>
-    <img align="right" height="326vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
+<div>
+    <img align="right" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
     <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-  </div>
-  <h2><b>Main Workstation Specifications</b></h2>
 </div>
 
 ```
@@ -87,6 +80,7 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 </div>
 
 </td><td valign="top" width="33%">
+
 
 
 
