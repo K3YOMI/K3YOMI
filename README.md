@@ -39,12 +39,10 @@ Meteorology, the study of weather and atmospheric phenomena, has also captured m
 On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for Cyber Security, Programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing Cyber Security, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
 ## 🖥️ My Workstation
-<div align="center">
-    <img align="center" style="width: 500px; height: 250px"  src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
-</div>
+
   <hr>
   <div>
-    <img align="left" height="326vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/389681be-a646-4ce6-8238-5f9482e3d98d">
+    <img align="left" height="326vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/e83b7b09-fbd4-4b51-865b-c2f3f4ef1bb7">
     <img align="left" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
   <h2><b>Main Workstation Specifications</b></h2>
