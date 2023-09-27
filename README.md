@@ -46,9 +46,6 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
     <img align="right" height="280vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
 <br>
- <div>
-    <img align="center" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/9401b188-62e7-429c-9fd2-0a78cd30631e">
-</div>
 </div>
 
 ```
