@@ -5,23 +5,28 @@
 # ❤︎ About Me
 
 <div>
-    <img align="left" style="height: 28vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
-    <img align="left" style="height: 28vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="left" style="height: 30vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
+    <img align="left" style="height: 30vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
 
-- Name: `Kiyomi (k3yomi / Dark Triad / Ra66it)`
-- Age: `18 years old`
-- Pronouns: `They/Them or She/Her`
-- Currently In: `College`
-- Intetests: `Cyber Security, InfoSec, Crypto, Programming, Social Engineering, Meteorology`
-- Discord: `@kiyomi (359794704847601674)`
-- Youtube: `@PartyOnTuesdays`
-- RBLX: `@PartyOnTuesdays`
-- GitHub: `@k3yomi`
-- Reddit: `@Kiyomi Fujisaki`
-
-<br>
+```
+Name...................:  Kiyomi (k3yomi / Dark Triad / Ra66it)
+Age....................:  18 years old
+Pronouns...............:  They/Them or She/Her
+Mostly programming in..:  JavaScript
+Currently in...........:  College
+Intetests..............:  Cybersecurity, Infosecutity,
+                          Crypto, Programming, Social Engineering
+                          Pentesting, Meteorology, Statistics,
+                          Data Mining
+Socials................:
+    Discord............: @kiyomi (359794704847601674)
+    Youtube............: @PartyOnTuesdays
+    RBLX...............: @PartyOnTuesdays
+    GitHub.............: @k3yomi
+    Reddit.............: @Kiyomi Fujisaki
+```
 
 ## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
@@ -40,23 +45,24 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
     <img align="right" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
     <img align="right" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
-  <summary>Main Computer Specifications</summary>
-
-  - CPU: AMD Ryzen 7 5800X 8-Core Processor 
-  - GPU: Nvidia RTX 3060 12GB
-  - RAM: 32.0 GB (4x8GB) Corsair Vengeance
-  - Motherboard: MSI B450 Gaming Plus
-  - Drives:
-    - Boot: 1TB NVMe
-    - The Cave: 2TB HHD
-    - Projects: 1TB SSD
-    - Virtual Machines: 512GB SSD
-    - CitizenFX DB: 2TB NVMe
 <br>
  <div>
     <img align="center" height="300vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/9401b188-62e7-429c-9fd2-0a78cd30631e">
 </div>
 </div>
+
+```
+CPU...................: AMD Ryzen 7 5800X 8-Core Processor
+GPU...................: Nvidia RTX 3060 12GB
+RAM...................: 32.0 GB (4x8GB) Corsair Vengeance
+Motherboard...........: MSI B450 Gaming Plus
+Drives................:
+    Boot...............: 1TB NVMe
+    The Cave..........: 2TB HHD
+    Projects..........: 1 TB SSD
+    Virtual Machines..: 512GB SSD
+    CitizenFX DB......: 2TB NVMe
+```
 
 
 
