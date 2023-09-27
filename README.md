@@ -137,7 +137,7 @@ Drives..............:
 
 ```
 [ Experience in languages ]
-JavaScript......: 5 Years
+JavaScript......: 5 years
 Python..........: 6 years
 LUA.............: 8 years
 C#..............: 3 years
