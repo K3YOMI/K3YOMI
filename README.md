@@ -5,7 +5,7 @@
 # ❤︎ About Me
 
   <div>
-    <img align="left" style="height: auto; width: auto" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
+    <img align="left" style="height: 28vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
     <img align="left"style="height: 28vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
