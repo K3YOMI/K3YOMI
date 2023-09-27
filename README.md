@@ -127,16 +127,12 @@ Drives..............:
 
 </td></tr></table>  
 
-<br/>  
+
 
 ## 👨‍💻 Github Stats  
 
-<div align="center">
-<img align="center" height="128vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-<img align="center" height="128vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
-</div>
-
-<br>
+<div>
+<img align="left" height="158vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
 ```
 [ Experience in languages ]
@@ -150,7 +146,8 @@ GoLang..........: 2 years
 PHP.............: 1 year
 Java............: 1 year
 ```
-
+ 
+<img align="left" height="146vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
 
 ```
 [ Current Projects ]
@@ -159,11 +156,13 @@ Java............: 1 year
 - CalRP
 - Citizen.cl
 - FiveAC Anticheat
-
-
-
-
 ```
+
+
+</div>
+
+
+
 
 
 
