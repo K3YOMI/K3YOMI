@@ -16,7 +16,7 @@ Age....................:  18 years old
 Pronouns...............:  They/Them or She/Her
 Mostly programming in..:  JavaScript
 Currently in...........:  College
-Intetests..............:  Cybersecurity, Infosecutity,
+Intetests..............:  Cybersecurity, InfoSec,
                           Crypto, Programming, Social Engineering
                           Pentesting, Meteorology, Statistics,
                           Data Mining
