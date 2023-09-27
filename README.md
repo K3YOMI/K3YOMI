@@ -5,8 +5,8 @@
 # ❤︎ About Me
 
 <div>
-    <img align="left" style="height: 31vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
-    <img align="right" style="height: 30vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="left" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
+    <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
 
@@ -42,8 +42,8 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 ## 🖥️ My Workstation
 <div>
   <div>
-    <img align="right" style="height: 25vh; width: 35vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
-    <img align="right" style="height: 22vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+     <img align="right" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
+      <img align="right" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
 </div>
 
