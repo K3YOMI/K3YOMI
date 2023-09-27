@@ -4,28 +4,23 @@
   
 # ❤︎ About Me
 
-  <div>
+<div>
     <img align="left" style="height: 28vh; width: 19vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
-    <img align="left"style="height: 28vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="left" style="height: 28vh; width: 1vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-```
-Name...................:  Kiyomi (k3yomi / Dark Triad / Ra66it)
-Age....................:  18 years old
-Pronouns...............:  They/Them or She/Her
-Mostly programming in..:  JavaScript
-Currently in...........:  College
-Intetests..............:  Cybersecurity, Infosecutity,
-                          Crypto, Programming, Social Engineering
-                          Pentesting, Meteorology, Statistics,
-                          Data Mining
-Socials................:
-    Discord............: @kiyomi (359794704847601674)
-    Youtube............: @PartyOnTuesdays
-    RBLX...............: @PartyOnTuesdays
-    GitHub.............: @k3yomi
-    Reddit.............: @Kiyomi Fujisaki
-```
+
+- Name: `Kiyomi (k3yomi / Dark Triad / Ra66it)`
+- Age: `18 years old`
+- Pronouns: `They/Them or She/Her`
+- Currently In: `College`
+- Intetests: `Cyber Security, InfoSec, Crypto, Programming, Social Engineering, Meteorology`
+- Discord: `@kiyomi (359794704847601674)`
+- Youtube: `@PartyOnTuesdays`
+- RBLX: `@PartyOnTuesdays`
+- GitHub: `@k3yomi`
+- Reddit: `@Kiyomi Fujisaki`
+
 
 ## More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
