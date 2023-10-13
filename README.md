@@ -146,7 +146,7 @@ C++.............: 4 years
 GoLang..........: 2 years
 PHP.............: 1 year
 Java............: 1 year
-C///............: < 1 year
+C...............: < 1 year
 ```
  
 <img align="left" height="146vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
