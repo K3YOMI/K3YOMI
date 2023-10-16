@@ -23,9 +23,7 @@ Intetests..............:  Cybersecurity, InfoSec,
 Socials................:
   Discord..............: @kiyomi (359794704847601674)
   Youtube..............: @PartyOnTuesdays
-  RBLX.................: @PartyOnTuesdays
   GitHub...............: @k3yomi
-  Reddit...............: @Kiyomi Fujisaki
 ```
 
 ## 📙 More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -155,10 +153,8 @@ C...............: < 1 year
 [ Current Projects ]
 - AtmosphericX
 - Wall of Flippers (WoF)
-- CalRP
-- Citizen.cl
+- Citizen Connection Library
 - FiveAC Anticheat
-- Flipper Misc BLE
 ```
 
 
