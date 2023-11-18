@@ -27,14 +27,14 @@ Socials................:
 ```
 
 ## 📙 More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for Cyber Security, Programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
+Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for cybersec, programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
 
-In the field of Cyber Security, I am wondered by the landscape of threats and the critical role that security plays in safeguarding individuals and organizations. I am committed to understanding and mitigating these risks through continuous learning and staying updated with the latest trends and techniques. From network security to application security, cryptography to ethical hacking.
+In the field of cyber security, I am wondered by the landscape of threats and the critical role that security plays in safeguarding individuals and organizations. I am committed to understanding and mitigating these risks through continuous learning and staying updated with the latest trends and techniques. From network security to application security, cryptography to ethical hacking.
 
 Meteorology, the study of weather and atmospheric phenomena, has also captured my interest as well. I am intrigued by the intricate processes and fascinated by the ability to predict and understand the forces of nature. Observing the interplay of clouds, wind, and temperature is a constant source of wonder for me.
 
 
-On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for Cyber Security, Programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing Cyber Security, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
+On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for cybersec, programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing cybersec, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
 
 ## 🖥️ My Workstation
