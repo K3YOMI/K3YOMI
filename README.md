@@ -40,7 +40,7 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 ## 🖥️ My Workstation
 <div>
   <div>
-     <img align="right" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/ad9ab4b6-991c-482b-a3c1-96a519c71572">
+     <img align="right" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/7e439cda-37eb-40bb-aeb6-6f2c1fc62f80">
       <img align="right" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
 </div>
