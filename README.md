@@ -37,6 +37,8 @@ Meteorology, the study of weather and atmospheric phenomena, has also captured m
 On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for cybersec, programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing cybersec, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1REARU)
+
 ## 🖥️ My Workstation
 <div>
   <div>
