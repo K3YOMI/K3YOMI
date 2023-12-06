@@ -11,7 +11,7 @@
 
 
 ```
-Name...................:  Kiyomi (k3yomi / Dark Triad / Ra66it)
+Name...................:  Kiyomi (k3yomi / Dark Triad)
 Age....................:  18 years old
 Pronouns...............:  They/Them or She/Her
 Mostly programming in..:  JavaScript
