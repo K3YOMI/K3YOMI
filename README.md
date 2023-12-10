@@ -1,8 +1,5 @@
-![BackgroundBaseGithub](https://github.com/K3YOMI/K3YOMI/assets/54733885/9bad09b6-8086-4f49-aaa2-5a1f8907d2b5)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=3000&color=F70000&center=true&width=900&lines=Greetings%2C+I'm+Kiyomi+(k3yomi);Have+Questions%3F;Feel+free+to+contact+me!;Discord%3A+kiyomi+(Previously+Kiyomi%230001+%2F+%239081)" alt="Typing SVG" /></a>
-  
 # ❤︎ About Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1REARU)
 
 <div>
     <img align="left" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
@@ -36,7 +33,6 @@ Meteorology, the study of weather and atmospheric phenomena, has also captured m
 On my GitHub profile, you'll find a collection of my projects and contributions, reflecting my passion for cybersec, programming, and meteorology. I believe in the power of collaboration and the open-source community, and I strive to contribute back by sharing code, creating tools, and offering valuable resources. I am always open to new opportunities, collaborations, and ideas. Whether it's discussing cybersec, programming, or meteorology, I'm eager to connect and explore these fascinating domains together. Let's embark on an exciting journey of discovery and growth!
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1REARU)
 
 ## 🖥️ My Workstation
 <div>
@@ -194,5 +190,3 @@ C...............: < 1 year
 <a href="https://www.youtube.com/watch?v=M0OuQ1eIjus"><img src="https://f4.bcbits.com/img/a0445860264_2.jpg" height="75px" title="Dual Core - Dual Core"></a>
 </p>
 </div>
-
-
