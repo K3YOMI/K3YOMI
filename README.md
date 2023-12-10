@@ -18,11 +18,10 @@ Mostly programming in..:  JavaScript
 Currently in...........:  College Studying Networking / CyberSec
 Intetests..............:  Cybersecurity, InfoSec,
                           Crypto, Programming, Social Engineering
-                          Pentesting, Meteorology, Statistics,
-                          Data Mining
+                          Pentesting, Meteorology, & Statistics
 Socials................:
   Discord..............: @kiyomi (359794704847601674)
-  Youtube..............: @PartyOnTuesdays
+  Youtube..............: @k3yomi
   GitHub...............: @k3yomi
 ```
 
