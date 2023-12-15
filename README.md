@@ -9,8 +9,7 @@
 
 ```
 Name...................:  Kiyomi (k3yomi / Dark Triad)
-Age....................:  18 years old
-Pronouns...............:  They/Them or She/Her
+Age....................:  19 years old
 Mostly programming in..:  JavaScript
 Currently in...........:  College Studying Networking / CyberSec
 Intetests..............:  Cybersecurity, InfoSec,
