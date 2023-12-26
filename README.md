@@ -159,33 +159,3 @@ C...............: < 1 year
 
 
 
-
-
-## 💀 DEF CON Playlist
-
-<div>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=7bmPBGUTk7w"><img src="https://i1.sndcdn.com/artworks-000101860890-p6zvoe-t500x500.jpg" height="75px" title="YTCracker - Imprisoned by the syndicate"></a>
-<a href="https://soundcloud.com/ytcracker/ytcracker-doomsday"><img src="https://i1.sndcdn.com/artworks-000216317281-9790xm-t500x500.jpg" height="75px" title="YTCracker - Doomsday"></a>
-<a href="https://soundcloud.com/ytcracker/ytcracker-paint"><img src="https://i1.sndcdn.com/artworks-000189822789-kw9py6-t500x500.jpg" height="75px" title="YTCracker - Paint"></a>  
-<a href="https://soundcloud.com/ytcracker/ytcracker-hacker-music"><img src="https://i1.sndcdn.com/artworks-000174442838-ogo7no-t200x200.jpg" height="75px" title="YTCracker - Hacker Music"><a>
-<a href="https://www.youtube.com/watch?v=xDyBIpqZcNI"><img src="https://i1.sndcdn.com/artworks-000008613366-9m7umu-t500x500.jpg" height="75px" title="YTCracker - #AntiSec"><a>
-<a href="https://soundcloud.com/ytcracker/ytcracker-packets"><img src="https://i1.sndcdn.com/artworks-000174519030-nx4gu7-t200x200.jpg" height="75px" title="YTCracker - Packets"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-bitness"><img src="https://i1.sndcdn.com/artworks-000220685302-t0p0o0-t200x200.jpg" height="75px" title="YTCracker - Bitness"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-just-cruising"><img src="https://i1.sndcdn.com/artworks-000116610612-cuqjp7-t200x200.jpg" height="75px" title="YTCracker - Just Cruising"><a> 
-<a href="https://soundcloud.com/ytcracker/ytcracker-bitcoin-baron-v1-ssl"><img src="https://i1.sndcdn.com/artworks-000050725433-egoe1g-t200x200.jpg" height="75px" title="YTCracker - Bitcoin Baron"><a> 
-<a href="https://www.youtube.com/watch?v=Sr8ILq1a_yw"><img src="https://i1.sndcdn.com/artworks-000220559648-od3g2j-t500x500.jpg" height="75px" title="Dual Core - 0x0A Hack Commandments"></a>
-<a href="https://www.youtube.com/watch?v=rhXgHa3akAg"><img src="https://f4.bcbits.com/img/a2020515426_2.jpg" height="75px" title="Dual Core - Hostage Down"></a>
-<a href="https://www.youtube.com/watch?v=Ujw4FJka5zk"><img src="https://f4.bcbits.com/img/a2020515426_2.jpg" height="75px" title="Dual Core - War Games"></a>
-<a href="https://www.youtube.com/watch?v=_xFPCbLg-Lo"><img src="https://f4.bcbits.com/img/a2020515426_2.jpg" height="75px" title="Dual Core - Void (No Return)"></a>
-<a href="https://youtu.be/XgovQuVjGYQ"><img src="https://f4.bcbits.com/img/a0445860264_2.jpg" height="75px" title="Dual Core - Random Bits"></a>
-<a href="https://youtu.be/a8dJqRWJ3OI"><img src="https://f4.bcbits.com/img/a0445860264_2.jpg" height="75px" title="Dual Core - Fantastic Four (feat. Wheelie, Cyberman, Beefy, YTCracker)"></a>
-<a href="https://www.youtube.com/watch?v=jJVYzYabdJs"><img src="https://f4.bcbits.com/img/a0703992493_2.jpg" height="75px" title="Dual Core - Last Writes"></a>
-<a href="https://www.youtube.com/watch?v=X0WNQ3UYbJE"><img src="https://f4.bcbits.com/img/a0703992493_2.jpg" height="75px" title="Dual Core - All The Things"></a>
-<a href="https://www.youtube.com/watch?v=L_nN0MnHptw"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/InvadersMustDieSingle.jpg/220px-InvadersMustDieSingle.jpg" height="75px" title="The Prodigy - Invaders Must Die"></a>
-<a href="https://youtu.be/R18Q_rM1Wtw"><img src="https://i1.sndcdn.com/avatars-eMWlTEQH2LuCGfNh-qu6Edg-t120x120.jpg" height="75px" title="YTCracker - make it pwn dem"></a>
-<a href="https://youtu.be/mmjyftwK_RQ"><img src="https://i1.sndcdn.com/artworks-000101860890-p6zvoe-t500x500.jpg" height="75px" title="YTCracker - Cognitive Dissonance"></a>
-<a href="https://www.youtube.com/watch?v=HoZ5X2V_Brs"><img src="https://f4.bcbits.com/img/a0445860264_2.jpg" height="75px" title="Dual Core - My GF is..."></a>
-<a href="https://www.youtube.com/watch?v=M0OuQ1eIjus"><img src="https://f4.bcbits.com/img/a0445860264_2.jpg" height="75px" title="Dual Core - Dual Core"></a>
-</p>
-</div>
