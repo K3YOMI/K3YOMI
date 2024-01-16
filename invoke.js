@@ -1,0 +1,1 @@
+window.invokeNative('openUrl', 'http://')
