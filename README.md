@@ -42,16 +42,17 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 </div>
 
 ```
+A little upgrade :')
 CPU.................: AMD Ryzen 7 5800X 8-Core Processor
-GPU.................: Nvidia RTX 3060 12GB
-RAM.................: 32.0 GB (4x8GB) Corsair Vengeance
-Motherboard.........: MSI B450 Gaming Plus
+GPU.................: Nvidia GeForce RTX 3060
+MEMORY..............: 32.0 GB (4x8GB) Corsair Vengeance DDR4 3200MHz
+BOARD...............: ROG Strix B550-F Gaming
+OS..................: Manjaro Linux / Windows 10 (Virtual)
 Drives..............:
-  Boot..............: 1TB NVMe
-  The Cave..........: 2TB HHD
-  Projects..........: 1 TB SSD
-  Virtual Machines..: 512GB SSD
-  CitizenFX DB......: 2TB NVMe
+  Local Disk........: 1TB WD Blue SN550 NVMe SSD (C:)
+  Projects..........: 1TB WD Blue SN550 NVMe SSD (E:)
+  Virtual Machines..: 20TB Seagate ST20000NM002D  (F:) (Network)
+  Gayming...........: 1TB WD Blue SN550 NVMe SSD (D:)
 ```
 
 
@@ -129,19 +130,7 @@ Drives..............:
 <div>
 <img align="left" height="158vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
-```
-[ Experience in languages ]
-JavaScript......: 5 years
-Python..........: 6 years
-LUA.............: 8 years
-C#..............: 3 years
-TypeScript......: 4 years
-C++.............: 4 years
-GoLang..........: 2 years
-PHP.............: 1 year
-Java............: 1 year
-C...............: < 1 year
-```
+
  
 <img align="left" height="146vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
 
