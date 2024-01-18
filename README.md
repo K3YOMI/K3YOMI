@@ -52,7 +52,7 @@ Drives..............:
   Local Disk........: 1TB WD Blue SN550 NVMe SSD (C:)
   Projects..........: 1TB WD Blue SN550 NVMe SSD (E:)
   Gayming...........: 1TB WD Blue SN550 NVMe SSD (D:)
-  The Vault.........: 20TB Seagate ST20000NM002D  (Z:) (Network)
+  The Vault.........: 20TB Seagate ST20000NM002D (Z:) (Network)
 ```
 
 
