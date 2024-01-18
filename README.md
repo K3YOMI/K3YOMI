@@ -51,8 +51,8 @@ OS..................: Manjaro Linux / Windows 10 (Virtual)
 Drives..............:
   Local Disk........: 1TB WD Blue SN550 NVMe SSD (C:)
   Projects..........: 1TB WD Blue SN550 NVMe SSD (E:)
-  Virtual Machines..: 20TB Seagate ST20000NM002D  (F:) (Network)
   Gayming...........: 1TB WD Blue SN550 NVMe SSD (D:)
+  The Vault.........: 20TB Seagate ST20000NM002D  (Z:) (Network)
 ```
 
 
@@ -129,19 +129,7 @@ Drives..............:
 
 <div>
 <img align="left" height="158vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-
-
- 
 <img align="left" height="146vh" src="https://github-readme-stats.vercel.app/api?username=K3YOMI&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
-
-```
-[ Current Projects ]
-- AtmosphericX
-- Wall of Flippers (WoF)
-- Citizen Connection Library
-- FiveAC Anticheat
-```
-
 
 </div>
 
