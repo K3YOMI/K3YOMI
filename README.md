@@ -38,8 +38,8 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 
 
   <div>
-     <img align="right" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/d5ac992a-9ac0-49d1-995a-8db38e032cb2">
-      <img align="right" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+     <img align="right" height="210vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/d5ac992a-9ac0-49d1-995a-8db38e032cb2">
+      <img align="right" height="210vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
   </div>
 </div>
 
