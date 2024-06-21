@@ -1,5 +1,5 @@
 # ❤︎ About Me
-[![ko-fi](media/kofi.svg)](https://ko-fi.com/k3yomi)
+
 
 <div>
     <img align="left" height="260vh" src="/media/kiyomi.gif">
