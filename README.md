@@ -5,7 +5,7 @@
     <img align="left" height="260vh" src="/media/kiyomi.gif">
     <img align="left" height="260vh" src="/media/1_120_transparent.png">
 </div>
-https://github.com/K3YOMI/K3YOMI/assets/54733885/902bb0d0-f2c3-4199-9b8a-6b9c6c25da21
+
 
 
 ```
