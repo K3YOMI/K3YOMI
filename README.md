@@ -1,9 +1,9 @@
 # ❤︎ About Me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1REARU)
+[![ko-fi](media/kofi.svg)](https://ko-fi.com/k3yomi)
 
 <div>
-    <img align="left" height="260vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/66fb3dd0-a92a-49da-a241-82fcc9661eb8">
-    <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+    <img align="left" height="260vh" src="/media/kitty-keyboard.gif">
+    <img align="left" height="260vh" src="/media/1_120_transparent.png">
 </div>
 
 
@@ -21,7 +21,7 @@ Socials................:
   GitHub...............: @k3yomi
 ```
 
-## 📙 More Detailed Background <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+## 📙 More Detailed Background <img src="/media/wave.webp" width="28"> 
 Hello! I'm Kiyomi *(kai-o-me)*, a dedicated individual with a strong passion for cybersec, programming, and meteorology. I find immense joy in exploring the intricacies of technology, protecting digital systems, and understanding the fascinating world of weather.
 
 In the field of cyber security, I am wondered by the landscape of threats and the critical role that security plays in safeguarding individuals and organizations. I am committed to understanding and mitigating these risks through continuous learning and staying updated with the latest trends and techniques. From network security to application security, cryptography to ethical hacking.
@@ -38,8 +38,8 @@ On my GitHub profile, you'll find a collection of my projects and contributions,
 
 
   <div>
-     <img align="right" height="210vh" src="https://github.com/K3YOMI/K3YOMI/assets/54733885/d5ac992a-9ac0-49d1-995a-8db38e032cb2">
-      <img align="right" height="210vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+     <img align="right" height="210vh" src="/media/my epic setup.png">
+      <img align="right" height="210vh" src="/media/1_120_transparent.png">
   </div>
 </div>
 
