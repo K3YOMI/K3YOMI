@@ -1,9 +1,9 @@
 # ❤︎ About Me
 
 
+
 <div>
     <a href="https://ko-fi.com/k3yomi" style="text-decoration: none;"><img align="center" src='https://ko-fi.com/img/githubbutton_sm.svg'></a>
-    <img align="right" height="220vh" src="/media/kiyomi.gif">
     <img align="left" height="260vh" src="/media/1_120_transparent.png">
 </div>
 <br>
