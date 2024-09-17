@@ -14,7 +14,7 @@
 Name...................:  Kiyomi/Kiyo
 Currently Doing........:  Citizen Connection Library
 Age....................:  19 ??? (maybe)
-Intetests..............:  Cybersecurity, InfoSec,
+Interests..............:  Cybersecurity, InfoSec,
                           Crypto, Programming, Social Engineering
                           Pentesting, Meteorology, & Statistics
 Socials................:
