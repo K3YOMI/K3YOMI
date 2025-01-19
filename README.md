@@ -1,63 +1,80 @@
-# ❤︎ About Me
+# ❤︎ Hello, I'm Kiyomi!
 
 
 
 <div>
     <a href="https://ko-fi.com/k3yomi" style="text-decoration: none;"><img align="center" src='https://ko-fi.com/img/githubbutton_sm.svg'></a>
-    <img align="left" height="260vh" src="/media/1_120_transparent.png">
+   
 </div>
 <br>
 
 
 
-```
-Name...................:  Kiyomi (Kiyo)
-Age....................:  21 ??? (maybe)
-Interests..............:  Cybersecurity, InfoSec,
-                          Crypto, Programming, Social Engineering
-                          Pentesting, Meteorology, & Statistics
-Discord..............: @kiyomi (359794704847601674)
+```js
+const kiyoyoyoyo = {
+    name: "Kiyomi (Kiyo)",
+    age: "21 ??? (maybe)",
+    interests: [
+        "Cybersecurity", "InfoSec",
+        "Crypto", "Programming",
+        "Social Engineering", "Pentesting / Purple Teaming"
+        "Meteorology", "Statistics"
+    ],
+    discord: "@kiyomi",
+    uuid: 359794704847601674
+};
 ```
 
 ## 📙 More Detailed Background <img src="/media/wave.webp" width="28"> 
 Hey there! I'm Kiyomi (pronounced kai-o-me). On my GitHub profile, you'll discover my diverse projects and contributions, fueled by my love for cybersecurity, programming, and meteorology. I'm a firm believer in the collaborative spirit of the open-source community. Let's build something amazing together! 💖
 
-## 🖥️ My Workstation
+## 🖥️ My Workstation + Projects
 <div>
 
 
+
   <div>
-     <img align="right" height="210vh" src="/media/my epic setup.png">
-      <img align="right" height="210vh" src="/media/1_120_transparent.png">
+     <img align="right" height="350vh" src="https://github.com/user-attachments/assets/c328f722-9517-4492-a69c-942de789826a">
+      <img align="right" height=350vh" src="/media/1_120_transparent.png">
   </div>
 </div>
 
-```
-CPU.................: AMD Ryzen 7 5800X 8-Core Processor
-GPU.................: Nvidia GeForce RTX 3060
-MEMORY..............: 32.0 GB (4x8GB) Corsair Vengeance DDR4 3200MHz
-BOARD...............: ROG Strix B550-F Gaming
-OS..................: Manjaro Linux
-                      Windows 10 (Virtual)
-```
+```js
+const myWorkstation = {
+    cpu: "AMD Ryzen 7 5800X 8-Core Processor",
+    gpu1: "Nvidia GeForce RTX 3060",
+    memory: {
+        total: 64,
+        type: "Corsair Vengeance DDR4 3200MHz (4x16GB)"
+    },
+    os: {
+        primary: "Manjaro Linux ( :3 )",
+        vm: "Windows 10 + 11 (w/ WSL)"
+    }
+};
 
+const myProjects = [
+    "Citizen Connection Library (2021 - Current)",
+    "FiveAC Anticheat (2019 - Current)",
+    "Project AtmosphericX (2023 - Current)",
+    "Wall of Flippers (2023 - Current)"
+]
 
+```
 
 ## 💪 My Skillset
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -77,7 +94,6 @@ OS..................: Manjaro Linux
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
