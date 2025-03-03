@@ -33,8 +33,9 @@ Hey there! I'm Kiyomi (pronounced kai-o-me). On my GitHub profile, you'll discov
 
 
 
+
   <div>
-     <img align="right" height="250vh" src="https://github.com/user-attachments/assets/c328f722-9517-4492-a69c-942de789826a">
+     <img align="right" height="410vh" src="https://github.com/user-attachments/assets/3e8e7d8c-ae18-4aa7-bb5a-934efe504e25">
       <img align="right" height=250vh" src="/media/1_120_transparent.png">
   </div>
 </div>
