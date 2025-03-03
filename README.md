@@ -16,9 +16,10 @@ const kiyoyoyoyo = {
     age: "21 ??? (maybe)",
     interests: [
         "Cybersecurity", "InfoSec",
-        "Crypto", "Programming",
-        "Social Engineering", "Pentesting / Purple Teaming"
-        "Meteorology", "Statistics"
+        "Open Source Intelligence"
+        "Cryptography", "Programming",
+        "Social Engineering", "Pentesting"
+        "Meteorology", "Statistics", "Data Analytics"
     ],
     discord: "@kiyomi",
     snowflake: 359794704847601674
@@ -56,7 +57,7 @@ const myWorkstation = {
 
 const myProjects = [
     "Citizen Connection Library (2021 - Current)",
-    "FiveAC Anticheat (2019 - Current)",
+    "FiveAC Anticheat (2019 - 2025)",
     "Project AtmosphericX (2023 - Current)",
     "Wall of Flippers (2023 - Current)"
 ]
