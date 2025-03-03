@@ -21,7 +21,7 @@ const kiyoyoyoyo = {
         "Meteorology", "Statistics"
     ],
     discord: "@kiyomi",
-    uuid: 359794704847601674
+    snowflake: 359794704847601674
 };
 ```
 
