@@ -25,44 +25,17 @@ const kiyoyoyoyo = {
     snowflake: 359794704847601674
 };
 ```
+```js
+const myProjects = [
+    "Citizen Connection Library (2021 - Current)",
+    "Project AtmosphericX (2023 - Current)",
+    "Wall of Flippers (2023 - Current)"
+]
+```
 
 ## 📙 More Detailed Background <img src="/media/wave.webp" width="28"> 
 Hey there! I'm Kiyomi (pronounced kai-o-me). On my GitHub profile, you'll discover my diverse projects and contributions, fueled by my love for cybersecurity, programming, and meteorology. I'm a firm believer in the collaborative spirit of the open-source community. Let's build something amazing together! 💖
 
-## 🖥️ My Workstation + Projects
-<div>
-
-
-
-
-  <div>
-     <img align="right" height="410vh" src="https://github.com/user-attachments/assets/3e8e7d8c-ae18-4aa7-bb5a-934efe504e25">
-      <img align="right" height=250vh" src="/media/1_120_transparent.png">
-  </div>
-</div>
-
-```js
-const myWorkstation = {
-    cpu: "AMD Ryzen 7 5800X 8-Core Processor",
-    gpu1: "Nvidia GeForce RTX 3060",
-    memory: {
-        total: 64,
-        type: "Corsair Vengeance DDR4 3200MHz (4x16GB)"
-    },
-    os: {
-        primary: "Manjaro Linux ( :3 )",
-        vm: "Windows 10 + 11 (w/ WSL)"
-    }
-};
-
-const myProjects = [
-    "Citizen Connection Library (2021 - Current)",
-    "FiveAC Anticheat (2019 - 2025)",
-    "Project AtmosphericX (2023 - Current)",
-    "Wall of Flippers (2023 - Current)"
-]
-
-```
 
 ## 💪 My Skillset
 <table><tr><td valign="top" width="33%">
