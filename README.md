@@ -25,13 +25,6 @@ const kiyoyoyoyo = {
     snowflake: 359794704847601674
 };
 ```
-```js
-const myProjects = [
-    "Citizen Connection Library (2021 - Current)",
-    "Project AtmosphericX (2023 - Current)",
-    "Wall of Flippers (2023 - Current)"
-]
-```
 
 ## 📙 More Detailed Background <img src="/media/wave.webp" width="28"> 
 Hey there! I'm Kiyomi (pronounced kai-o-me). On my GitHub profile, you'll discover my diverse projects and contributions, fueled by my love for cybersecurity, programming, and meteorology. I'm a firm believer in the collaborative spirit of the open-source community. Let's build something amazing together! 💖
