@@ -16,9 +16,9 @@ const kiyoyoyoyo = {
     age: "21 ??? (maybe)",
     interests: [
         "Cybersecurity", "InfoSec",
-        "Open Source Intelligence"
+        "Open Source Intelligence",
         "Cryptography", "Programming",
-        "Social Engineering", "Pentesting"
+        "Social Engineering", "Pentesting",
         "Meteorology", "Statistics", "Data Analytics"
     ],
     discord: "@kiyomi",
